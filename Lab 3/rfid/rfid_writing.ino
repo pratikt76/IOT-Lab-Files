@@ -17,7 +17,7 @@ MFRC522::MIFARE_Key key;
 int blockNum = 2;  
 /* Create an array of 16 Bytes and fill it with data */
 /* This is the actual data which is going to be written into the card */
-byte blockData [16] = {"Siddhesh-Thakare"};
+byte blockData [16] = {"Pratik-Thombare"};
 
 /* Create another array to read data from Block */
 /* Legthn of buffer should be 2 Bytes more than the size of Block (16 Bytes) */
