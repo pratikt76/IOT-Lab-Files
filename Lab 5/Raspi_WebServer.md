@@ -48,6 +48,4 @@ sudo mysql_secure_installation
 
 ### Step 6 :
 
-```
-sudo lighttpd-enable-mod fastcgi
-```
+After this go to browser and put IP Address of board (IPv4)
